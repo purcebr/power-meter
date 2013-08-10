@@ -11,6 +11,9 @@ public/uploads/Pu
 public/caches
 .vagrant
 
+# Database
+config/database.yml
+
 
 # Ignore rvm stuff
 .rvmrc
